@@ -8,7 +8,7 @@ In this I have created a Card game knows as Black Jack such that it based on few
 4. If more than 21 you lose the match (Don't Worry You can Start new Match 😁).
 5. If equal to 21 Congratulations You won 🎉🎉🎉
 
- # Screem Shots of the Project:
+# Screen Shots of the Project:
 ## Home Page:
 ![Screenshot 2023-10-26 212037](https://github.com/HarishKalliyan/Login-Authorization-with-Firebase/assets/90775945/e804c957-3440-4f69-8da2-1725c3ec30ab)
 ## Lost the Match:
